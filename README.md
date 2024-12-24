@@ -13,9 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thirumalaivasangj3&show_icons=true&locale=en&layout=compact" alt="thirumalaivasangj3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thirumalaivasangj3&show_icons=true&locale=en" alt="thirumalaivasangj3" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thirumalaivasangj3&" alt="thirumalaivasangj3" /></p>
 
 
 <picture>
