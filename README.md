@@ -62,8 +62,10 @@
 
 ---
 
-### 👀 Profile Views  
-<img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&color=ED8796" />
+### 👀 Profile Views (Accurate GA4 Tracking)
+
+<!-- Invisible GA Tracking Pixel -->
+<img src="https://thirumalaivasangj3.github.io/pixel.png" width="1" height="1" />
 
 ---
 
