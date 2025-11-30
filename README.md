@@ -26,3 +26,6 @@ i want this to my ![](https://komarev.com/ghpvc/?username=NiteeshL&base=0&color=
 
 <img src="https://t.bkit.co/w_675e72088d707.gif" />
 
+in toool add kubernets , n8n ,aws(EC2,s3)
+
+and i want to know how is view my github porfile make any idea for that 
