@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Thirumalaivasan GJ</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer | Devops Enthusiast</h3>
+<h3 align="center">🚀 Passionate Full-Stack Developer | Cloud Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thirumalaivasangj3/" target="_blank">
@@ -43,12 +43,9 @@
 
 <div align="center">
   
-  <a href="#">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thirumalaivasangj3&show_icons=true&theme=radical&hide_border=true" />
-  </a>
-  <a href="#">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalaivasangj3&layout=compact&theme=radical&hide_border=true" />
-  </a>
+![Thirumalaivasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thirumalaivasangj3&show_icons=true&theme=radical&hide_border=true)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalaivasangj3&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -57,7 +54,7 @@
 ## 🎯 Currently Focusing On
 
 - 🔭 Building scalable full-stack applications
-- 🌱 Exploring advanced cloud architectures
+- 🌱 Exploring advanced cloud architectures  
 - 👯 Open to collaborate on innovative projects
 - 💬 Ask me about React, Node.js, and Cloud Technologies
 
@@ -66,12 +63,12 @@
 <div align="center">
 
 ### 💻 **Coding Activity**
-  
+
 ![Snake animation](https://github.com/thirumalaivasangj3/thirumalaivasangj3/blob/output/github-contribution-grid-snake.svg)
 
 ### 📈 **Profile Views**
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=ThirumalaivasanGJ&color=blueviolet)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ThirumalaivasanGJ&color=blueviolet&label=Profile+Views)
 
 </div>
 
