@@ -1,83 +1,82 @@
-<h1 align="center">Hi 👋, I'm Thirumalaivasan GJ</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
+<h1 align="center">👋 Hi, I'm Thirumalaivasan GJ</h1>
+<h3 align="center">🚀 Passionate Full-Stack Developer | Devops Enthusiast</h3>
 
-- 📫 Reach me at **thirumalaivasangj@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/thirumalaivasangj3/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-  <!-- Core -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-  <!-- Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-
-  <!-- DevOps -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/>
-  
-  <!-- Cloud Services (EC2 + S3) -->
-  <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" title="AWS EC2 & S3"/>
-
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-
-  <!-- Others -->
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
-  
-  <!-- n8n -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" height="40" title="n8n Automation"/>
-
-</p>
-
----
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thirumalaivasangj3&show_icons=true&layout=compact" />
-</p>
-
-<br><br><br>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thirumalaivasangj3&show_icons=true" />
-</p>
-
----
-
-<!-- View counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThirumalaivasanGJ&base=0&color=ED8796" />
+  <a href="https://www.linkedin.com/in/thirumalaivasangj3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:thirumalaivasangj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+---
 
-<!-- GIF -->
+## 🛠️ Tech Stack
+
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### **Backend & Databases**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <a href="#">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thirumalaivasangj3&show_icons=true&theme=radical&hide_border=true" />
+  </a>
+  <a href="#">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalaivasangj3&layout=compact&theme=radical&hide_border=true" />
+  </a>
+
+</div>
+
+---
+
+## 🎯 Currently Focusing On
+
+- 🔭 Building scalable full-stack applications
+- 🌱 Exploring advanced cloud architectures
+- 👯 Open to collaborate on innovative projects
+- 💬 Ask me about React, Node.js, and Cloud Technologies
+
+---
+
+<div align="center">
+
+### 💻 **Coding Activity**
+  
+![Snake animation](https://github.com/thirumalaivasangj3/thirumalaivasangj3/blob/output/github-contribution-grid-snake.svg)
+
+### 📈 **Profile Views**
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=ThirumalaivasanGJ&color=blueviolet)
+
+</div>
+
+---
+
 <p align="center">
-  <img src="https://t.bkit.co/w_675e72088d707.gif" />
+  <i>⚡ Let's build something amazing together!</i>
 </p>
