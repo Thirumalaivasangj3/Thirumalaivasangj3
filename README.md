@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Status 
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thirumalaivasangj3&show_icons=true&locale=en&layout=compact" alt="top-langs" />
@@ -62,10 +62,8 @@
 
 ---
 
-### 👀 Profile Views (Accurate GA4 Tracking)
-
-<!-- Invisible GA Tracking Pixel -->
-<img src="https://thirumalaivasangj3.github.io/pixel.png" width="1" height="1" />
+### 👀 Profile Views  
+<img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&color=ED8796" />
 
 ---
 
