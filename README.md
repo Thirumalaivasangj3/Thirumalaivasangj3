@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Thirumalaivasan+GJ;Full-Stack+Developer+|+Cloud+|+DevOps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Thirumalaivasan+GJ;Full-Stack+Developer;Cloud+%7C+DevOps+Enthusiast" />
 </p>
 
 ---
