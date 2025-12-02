@@ -1,6 +1,7 @@
-<!-- Title -->
-<h1 align="center">Hi 👋, I'm Thirumalaivasan GJ</h1>
-<h3 align="center">Full-Stack Developer | Cloud | DevOps</h3>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Thirumalaivasan+GJ;Full-Stack+Developer+|+Cloud+|+DevOps" />
+</p>
 
 ---
 
