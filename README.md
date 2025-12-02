@@ -1,13 +1,15 @@
-<!-- Profile Views -->
+<!-- Profile Views at top removed as instructed -->
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3" alt="trophy" />
+  </a>
 </p>
 
-<!-- GIF on Right -->
 <img align="right" src="ig.gif" alt="Developer GIF" width="300"/>
 
 <h1 align="center">Hi 👋, I'm Thirumalaivasan GJ</h1>
-<h3 align="center">A Passionate Full-Stack Developer</h3>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
 📫 How to reach me: **thirumalaivasangj@gmail.com**
 
@@ -20,13 +22,6 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       height="30" width="40" />
   </a>
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3&theme=tokyonight&margin-w=10" />
 </p>
 
 ---
@@ -53,7 +48,7 @@
 
 ---
 
-## 📊 GitHub Status  
+### 📊 GitHub Status 
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thirumalaivasangj3&show_icons=true&locale=en&layout=compact" />
@@ -67,7 +62,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -77,5 +72,9 @@
 
 ---
 
-<!-- Final GIF -->
+### 👀 Profile Views  
+<img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&color=ED8796" />
+
+---
+
 <img src="https://t.bkit.co/w_675e72088d707.gif" width="600" />
