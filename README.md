@@ -1,100 +1,63 @@
-# 👨‍💻 Thirumalaivasan GJ  
-**Full-Stack Developer | Cloud & DevOps Enthusiast**
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Thirumalaivasan+GJ;Full-Stack+Developer;Cloud+%7C+DevOps+Enthusiast" />
+</p>
 
 ---
 
-## 📬 Contact Information  
-**Email:** 𝘵𝘩𝘪𝘳𝘶𝘮𝘢𝘭𝘢𝘪𝘷𝘢𝘴𝘢𝘯𝘨𝘫@gmail.com  
-**Location:** Chennai, India  
-**Availability:** Open to new opportunities & collaborations
+##  Contact  
+**Email:** 𝘵𝘩𝘪𝘳𝘶𝘮𝘢𝘭𝘢𝘪𝘷𝘢𝘴𝘢𝘯𝘨𝘫@gmail.com
 
 ---
 
-## 🔗 Professional Profiles  
+##  Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/thirumalaivasangj3/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/thirumalaivasangj3">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/ThirumalaivasanGJ/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+  <a href="https://www.linkedin.com/in/thirumalaivasangj3/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="https://github.com/thirumalaivasangj3"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
 </p>
 
 ---
 
-## 💼 Technical Expertise  
-
-### 🚀 Core Technologies  
+## Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,js,python,cpp,java"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,cpp,python,mongodb,mysql,git,github,docker,kubernetes,aws,firebase,figma,postman" />
 </p>
 
-### 🗄️ Databases & Backend  
+---
+
+##  GitHub Insights  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,supabase"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalaivasangj3&layout=compact&theme=tokyonight" />
+
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=thirumalaivasangj3&theme=tokyonight" />
 </p>
 
-### ☁️ Cloud & DevOps  
+---
+
+##  GitHub Trophy  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,jenkins,terraform,ansible"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3&theme=flat&no-frame=true&row=1&column=6" />
 </p>
 
-### 🛠️ Development Tools  
+---
+
+##  Contribution Activity  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,linux,bash"/>
+  <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </p>
 
 ---
 
-## 📈 GitHub Analytics  
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=thirumalaivasangj3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalaivasangj3&layout=compact&theme=radical&hide_border=true" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thirumalaivasangj3&theme=radical&hide_border=true" />
-
-</div>
+##  Profile Views  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&color=blueviolet&style=for-the-badge" />
+</p>
 
 ---
 
-## 🏆 Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+  <img src="https://t.bkit.co/w_675e72088d707.gif" width="600" />
 </p>
 
----
 
-## 📊 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thirumalaivasangj3&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph"/>
-</p>
-
----
-
-## 🎯 Currently Working On  
-- 🔭 Full-stack SaaS platform using React, Node.js, PostgreSQL  
-- 🌱 Advanced Kubernetes patterns & service mesh  
-- 🤝 Contributing to open-source JS ecosystem  
-
----
-
-## 📫 Let's Collaborate!  
-- 💬 Full-Stack, Cloud, DevOps discussions welcome  
-- 📫 Reach me via LinkedIn  
-- ⚡ Fun fact: I automate everything!
-
----
-
-## 📊 Weekly Development Breakdown  
-
-```text
-TypeScript    ████████████░░░░░░░░░░░░   45%
-JavaScript    ████████░░░░░░░░░░░░░░░░   30%
-Python        ████░░░░░░░░░░░░░░░░░░░░   15%
-Others        ██░░░░░░░░░░░░░░░░░░░░░░   10%
