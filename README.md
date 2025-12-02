@@ -5,12 +5,12 @@
 
 ---
 
-## 📫 Contact  
+##  Contact  
 **Email:** 𝘵𝘩𝘪𝘳𝘶𝘮𝘢𝘭𝘢𝘪𝘷𝘢𝘴𝘢𝘯𝘨𝘫@gmail.com
 
 ---
 
-## 🌐 Connect with Me  
+##  Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/thirumalaivasangj3/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="https://github.com/thirumalaivasangj3"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
@@ -18,14 +18,14 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,cpp,python,mongodb,mysql,git,github,docker,kubernetes,aws,firebase,figma,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Insights  
+##  GitHub Insights  
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalaivasangj3&layout=compact&theme=tokyonight" />
@@ -35,21 +35,21 @@
 
 ---
 
-## 🏆 GitHub Trophy  
+##  GitHub Trophy  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3&theme=flat&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🐍 Contribution Activity  
+##  Contribution Activity  
 <p align="center">
   <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </p>
 
 ---
 
-## 👀 Profile Views  
+##  Profile Views  
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&color=blueviolet&style=for-the-badge" />
 </p>
