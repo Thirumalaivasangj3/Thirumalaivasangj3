@@ -52,6 +52,15 @@
 
 ---
 
+<!-- ⭐ Trophy section placed here -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3" alt="thirumalaivasangj3" />
+  </a>
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 
 <picture>
@@ -64,15 +73,6 @@
 
 ### 👀 Profile Views  
 <img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&color=ED8796" />
-
----
-
-<!-- ⭐ Added Trophy Section -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3" alt="thirumalaivasangj3" />
-  </a>
-</p>
 
 ---
 
