@@ -1,79 +1,71 @@
-<h1 align="center">Hi 👋, I'm Thirumalaivasan GJ</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
-
-📫 How to reach me: **thirumalaivasangj@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/thirumalaivasangj3/" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> </a>
-</p>
-
----
-
-### 📊 GitHub Status 
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thirumalaivasangj3&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-</p>
-
-<br><br><br><br><br><br>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thirumalaivasangj3&show_icons=true&locale=en" alt="stats" />
-</p>
-
----
-
-<!-- ⭐ Trophy section placed here -->
+<!-- Banner -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3" alt="thirumalaivasangj3" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Thirumalaivasan+GJ;Full-Stack+Developer+%7C+Cloud+%7C+DevOps;Passionate+about+Building+Real+Projects" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+## 🚀 About Me  
+- Full-Stack Developer (React + Node + Firebase)  
+- Skilled in Cloud, DevOps, System Design  
+- Passionate about shipping real projects  
+- Always building, learning, improving ⭐  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
----
-
-### 👀 Profile Views  
-<img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&color=ED8796" />
+📫 **Reach me:**  
+📩 **thirumalaivasangj@gmail.com**
 
 ---
 
-<img src="https://t.bkit.co/w_675e72088d707.gif" width="600" />
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/thirumalaivasangj3/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="https://github.com/thirumalaivasangj3"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,cpp,python,mongodb,mysql,git,github,docker,kubernetes,aws,firebase,figma,postman" />
+</p>
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+  
+  <!-- Languages -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalaivasangj3&layout=compact&theme=tokyonight" />
+
+  <!-- Stats -->
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=thirumalaivasangj3&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🏆 Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Graph  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</p>
+
+---
+
+## 👀 Profile Views  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://t.bkit.co/w_675e72088d707.gif" width="600" />
+</p>
