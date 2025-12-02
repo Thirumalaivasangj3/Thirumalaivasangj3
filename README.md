@@ -39,11 +39,14 @@
 ---
 
 ## 📊 GitHub Insights  
-
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalaivasangj3&layout=compact&theme=tokyonight" />
 
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=thirumalaivasangj3&theme=tokyonight" />
+  <!-- Working Top Languages -->
+  <img height="160" src="https://github-readme-stats-gold-omega.vercel.app/api/top-langs/?username=thirumalaivasangj3&layout=compact&theme=tokyonight" />
+
+  <!-- Working Streak Stats -->
+  <img height="160" src="https://streak-stats.demolab.com/?user=thirumalaivasangj3&theme=tokyonight" />
+
 </p>
 
 ---
