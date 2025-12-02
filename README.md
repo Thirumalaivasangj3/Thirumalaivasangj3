@@ -1,13 +1,3 @@
-<!-- Profile Views at top removed as instructed -->
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3" alt="trophy" />
-  </a>
-</p>
-
-<img align="right" src="ig.gif" alt="Developer GIF" width="300"/>
-
 <h1 align="center">Hi 👋, I'm Thirumalaivasan GJ</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
@@ -51,13 +41,13 @@
 ### 📊 GitHub Status 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thirumalaivasangj3&show_icons=true&locale=en&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thirumalaivasangj3&show_icons=true&locale=en&layout=compact" alt="top-langs" />
 </p>
 
 <br><br><br><br><br><br>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thirumalaivasangj3&show_icons=true&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thirumalaivasangj3&show_icons=true&locale=en" alt="stats" />
 </p>
 
 ---
@@ -74,6 +64,15 @@
 
 ### 👀 Profile Views  
 <img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&color=ED8796" />
+
+---
+
+<!-- ⭐ Added Trophy Section -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3" alt="thirumalaivasangj3" />
+  </a>
+</p>
 
 ---
 
