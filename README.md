@@ -12,9 +12,9 @@
   <img src="https://img.shields.io/badge/Loves-Building%20Projects-blue?style=for-the-badge" />
 </div>
 
-💡 I enjoy building real-world applications and exploring DevOps & Cloud technologies.  
-🧠 Always learning, experimenting, and improving.  
-🚀 Focused on clean code and strong technical foundations.
+ I enjoy building real-world applications and exploring DevOps & Cloud technologies.  
+ Always learning, experimenting, and improving.  
+ Focused on clean code and strong technical foundations.
 
 ---
 
