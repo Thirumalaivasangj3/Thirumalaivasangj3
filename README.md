@@ -65,13 +65,21 @@
 
 ---
 
-## 👀 Profile Views  
+---
+
+## 👀 Profile Views & Analytics
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&color=blueviolet&style=for-the-badge" />
+
+  <!-- u8views - Real Analytics -->
+  <img src="https://u8views.com/api/v1/github/profiles/thirumalaivasangj3/views.svg" width="200" alt="Profile Views"/>
+
+  <!-- Komarev Badge -->
+  <img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&label=Total+Views&color=blueviolet&style=for-the-badge" />
+
+  <!-- GitHub Action Based Unique Visitors Badge -->
+  <img src="https://raw.githubusercontent.com/thirumalaivasangj3/thirumalaivasangj3/master/profile-views.svg" width="200" alt="GitHub Visitors"/>
+
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://t.bkit.co/w_675e72088d707.gif" width="600" />
-</p>
