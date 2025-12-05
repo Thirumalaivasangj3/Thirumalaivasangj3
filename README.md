@@ -3,36 +3,39 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Thirumalaivasan+GJ;Full-Stack+Developer;Cloud+%7C+DevOps+Enthusiast" />
 </p>
 
+<!-- Glassmorphism Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud%20%7C%20DevOps%20%7C%20Development-4F46E5?style=for-the-badge&logo=azuredevops&logoColor=white" />
+</p>
+
 ---
 
 ## 🧊 About Me  
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Learner-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dev-Problem%20Solver-4F46E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Loves-Building%20Projects-blue?style=for-the-badge" />
+  I build practical applications focused on scalability, performance, and clean architecture.<br>
+  Passionate about <strong>Cloud, DevOps, and Full-Stack Development</strong> while constantly leveling up 👨‍💻✨
 </p>
 
 <p align="center">
-  I enjoy building real-world applications and exploring <strong>Cloud & DevOps</strong> technologies.<br>
-  Always learning, experimenting, and improving with a passion for <strong>clean code</strong> & scalable systems.
+  <img src="https://img.shields.io/badge/Problem%20Solver-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Loves%20Building%20Projects-4F46E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Always%20Learning-blueviolet?style=for-the-badge" />
 </p>
 
 ---
 
 ## 📫 Contact  
 <p align="center">
- <a href="mailto:thirumalaivasangj@gmail.com">
-  ✉️ <strong>thirumalaivasangj@gmail.com</strong>
- </a>
+  ✉️ <a href="mailto:thirumalaivasangj@gmail.com"><strong>thirumalaivasangj@gmail.com</strong></a>
 </p>
 
 ---
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/thirumalaivasangj3/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  &nbsp;
-  <a href="https://github.com/thirumalaivasangj3"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+  <a href="https://www.linkedin.com/in/thirumalaivasangj3/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/thirumalaivasangj3"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
 </p>
 
 ---
@@ -55,7 +58,7 @@
 
 ## 🏆 GitHub Trophy  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3&theme=flat&no-frame=true&margin-w=10&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" />
 </p>
 
 ---
@@ -67,20 +70,13 @@
 
 ---
 
-## 👀 Profile Views & Analytics  
-
+## 👀 Profile Views  
 <p align="center">
-
-  <!-- u8views - Real Profile Views -->
   <a href="https://u8views.com/github/Thirumalaivasangj3">
-    <img src="https://u8views.com/api/v1/github/profiles/123793713/views/day-week-month-total-count.svg" width="300" alt="Profile Views"/>
+    <img src="https://u8views.com/api/v1/github/profiles/123793713/views/day-week-month-total-count.svg" width="350" />
   </a>
-
   &nbsp;&nbsp;
-
-  <!-- Komarev Badge (Total Page Loads) -->
-  <img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&label=Total+Views&color=blueviolet&style=for-the-badge" alt="Total GitHub Profile Views"/>
-
+  <img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&label=Total+Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
