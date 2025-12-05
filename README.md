@@ -65,12 +65,6 @@
 
 ---
 
----
-
----
-
----
-
 ## 👀 Profile Views & Analytics
 
 <p align="center">
