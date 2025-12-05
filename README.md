@@ -6,26 +6,32 @@
 ---
 
 ## 🧊 About Me  
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Code-Learner-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Dev-Problem%20Solver-4F46E5?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Loves-Building%20Projects-blue?style=for-the-badge" />
-</div>
+</p>
 
- I enjoy building real-world applications and exploring DevOps & Cloud technologies.  
- Always learning, experimenting, and improving.  
- Focused on clean code and strong technical foundations.
+<p align="center">
+  I enjoy building real-world applications and exploring <strong>Cloud & DevOps</strong> technologies.<br>
+  Always learning, experimenting, and improving with a passion for <strong>clean code</strong> & scalable systems.
+</p>
 
 ---
 
 ## 📫 Contact  
-**Email:** 𝘵𝘩𝘪𝘳𝘶𝘮𝘢𝘭𝘢𝘪𝘷𝘢𝘴𝘢𝘯𝘨𝘫@gmail.com
+<p align="center">
+ <a href="mailto:thirumalaivasangj@gmail.com">
+  ✉️ <strong>thirumalaivasangj@gmail.com</strong>
+ </a>
+</p>
 
 ---
 
 ## 🌐 Connect with Me  
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/thirumalaivasangj3/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  &nbsp;
   <a href="https://github.com/thirumalaivasangj3"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
 </p>
 
@@ -40,20 +46,16 @@
 
 ## 📊 GitHub Insights  
 <p align="center">
-
-  <!-- Working Top Languages -->
   <img height="160" src="https://github-readme-stats-gold-omega.vercel.app/api/top-langs/?username=thirumalaivasangj3&layout=compact&theme=tokyonight" />
-
-  <!-- Working Streak Stats -->
+  &nbsp;&nbsp;
   <img height="160" src="https://streak-stats.demolab.com/?user=thirumalaivasangj3&theme=tokyonight" />
-
 </p>
 
 ---
 
 ## 🏆 GitHub Trophy  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3&theme=flat&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3&theme=flat&no-frame=true&margin-w=10&row=1&column=6" />
 </p>
 
 ---
@@ -65,13 +67,13 @@
 
 ---
 
-## 👀 Profile Views & Analytics
+## 👀 Profile Views & Analytics  
 
 <p align="center">
 
   <!-- u8views - Real Profile Views -->
   <a href="https://u8views.com/github/Thirumalaivasangj3">
-    <img src="https://u8views.com/api/v1/github/profiles/123793713/views/day-week-month-total-count.svg" width="300" alt="Thirumalaivasan GJ profile views"/>
+    <img src="https://u8views.com/api/v1/github/profiles/123793713/views/day-week-month-total-count.svg" width="300" alt="Profile Views"/>
   </a>
 
   &nbsp;&nbsp;
@@ -82,3 +84,7 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://t.bkit.co/w_675e72088d707.gif" width="600" />
+</p>
