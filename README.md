@@ -67,19 +67,26 @@
 
 ---
 
+---
+
 ## 👀 Profile Views & Analytics
 
-<p align="left">
+<p align="center">
 
   <!-- u8views - Real Analytics -->
-  <img src="https://u8views.com/api/v1/github/profiles/thirumalaivasangj3/views.svg" width="200" alt="Profile Views"/>
+  <img src="https://u8views.com/api/v1/github/profiles/thirumalaivasangj3/views.svg?color=blue&label=Profile+Views" width="250" alt="Real Profile Views"/>
+
+  &nbsp;&nbsp;&nbsp;
 
   <!-- Komarev Badge -->
-  <img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&label=Total+Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&label=Total+Views&color=blueviolet&style=for-the-badge" alt="Total Views"/>
+
+  &nbsp;&nbsp;&nbsp;
 
   <!-- GitHub Action Based Unique Visitors Badge -->
-  <img src="https://raw.githubusercontent.com/thirumalaivasangj3/thirumalaivasangj3/master/profile-views.svg" width="200" alt="GitHub Visitors"/>
+  <img src="https://raw.githubusercontent.com/thirumalaivasangj3/thirumalaivasangj3/master/profile-views.svg" width="250" alt="Unique Visitors"/>
 
 </p>
 
 ---
+
