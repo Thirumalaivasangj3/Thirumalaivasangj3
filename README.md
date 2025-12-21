@@ -73,7 +73,9 @@
 ## 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thirumalaivasangj3&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-4F46E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-Enthusiast-blue?style=for-the-badge"/>
 </p>
 
 ---
