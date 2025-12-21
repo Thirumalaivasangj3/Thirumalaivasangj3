@@ -14,19 +14,8 @@
 </p>
 
 <p align="center">
-  Passionate Full-Stack Developer focused on building  
-  scalable, real-world applications.  
-  Exploring Cloud Architecture, DevOps, and clean system design.
-</p>
-
----
-
-## 📫 Contact  
-
-<p align="center">
-  <a href="mailto:thirumalaivasangj@gmail.com">
-    ✉️ <strong>thirumalaivasangj@gmail.com</strong>
-  </a>
+  Passionate Full-Stack Developer building real-world, scalable systems.  
+  Strong interest in Cloud Architecture, DevOps, and clean engineering.
 </p>
 
 ---
@@ -73,9 +62,9 @@
 ## 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-4F46E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-Enthusiast-blue?style=for-the-badge"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3&theme=flat&no-frame=true&row=1&column=4"
+  />
 </p>
 
 ---
