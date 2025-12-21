@@ -59,7 +59,7 @@
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thirumalaivasangj3&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thirumalaivasangj3&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" />
   &nbsp;&nbsp;
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalaivasangj3&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
@@ -73,7 +73,7 @@
 ## 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3&theme=flat&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thirumalaivasangj3&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
