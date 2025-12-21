@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Thirumalaivasan+GJ;Full-Stack+Developer;Cloud+%7C+DevOps+Enthusiast;Building+Scalable+Real-World+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Thirumalaivasan+GJ;Full-Stack+Developer;Cloud+%7C+DevOps+Enthusiast;Building+Scalable+Systems" />
 </p>
 
 ---
@@ -14,10 +14,9 @@
 </p>
 
 <p align="center">
-  I’m a passionate <strong>Full-Stack Developer</strong> who enjoys building  
-  <strong>scalable, real-world applications</strong>.<br>
-  Currently exploring <strong>Cloud Architecture, DevOps practices</strong>,  
-  and writing <strong>clean, maintainable code</strong> that scales.
+  Passionate Full-Stack Developer focused on building  
+  scalable, real-world applications.  
+  Exploring Cloud Architecture, DevOps, and clean system design.
 </p>
 
 ---
@@ -60,9 +59,9 @@
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-gold-omega.vercel.app/api?username=thirumalaivasangj3&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thirumalaivasangj3&show_icons=true&theme=tokyonight&hide_border=true" />
   &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats-gold-omega.vercel.app/api/top-langs/?username=thirumalaivasangj3&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalaivasangj3&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -74,7 +73,7 @@
 ## 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3&theme=flat&no-frame=true&margin-w=15&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3&theme=flat&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -82,26 +81,18 @@
 ## 🐍 Contribution Activity  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 👀 Profile Views & Analytics  
+## 👀 Profile Views  
 
 <p align="center">
-  <a href="https://u8views.com/github/Thirumalaivasangj3">
-    <img src="https://u8views.com/api/v1/github/profiles/123793713/views/day-week-month-total-count.svg" width="320" />
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&label=Total+Views&color=4F46E5&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&label=Profile%20Views&color=4F46E5&style=for-the-badge" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://t.bkit.co/w_675e72088d707.gif" width="600" />
-</p>
 
 <p align="center">
   <strong>✨ Always building. Always learning. ✨</strong>
