@@ -104,57 +104,7 @@ motto: "Ship fast. Ship reliably. Ship often."
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🏗️ Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚇 [Chennai Metro Travel Planner](https://github.com/Thirumalaivasangj3/Chennai-Metro-Rail-Travel-Planner)
-> **Live:** [travelplanner.chennaimetrorail.org](https://travelplanner.chennaimetrorail.org/)
-
-Plan journeys on the Chennai Metro — fare calculation, stops, duration, distance & real-time train details.
-
-`JavaScript` `HTML` `CSS` `Maps API`
-
-</td>
-<td width="50%">
-
-### 🔄 [CI/CD Kubernetes Pipeline](https://github.com/Thirumalaivasangj3/cicd-kubernetes-pipeline)
-
-End-to-end CI/CD pipeline deploying containerized applications to Kubernetes clusters with automated testing.
-
-`Python` `Docker` `Kubernetes` `GitHub Actions`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔍 [Crisis-Scope](https://github.com/Infernos444/Crisis-Scope)
-
-Real-time crisis monitoring and disaster management system for rapid response and situational awareness.
-
-`JavaScript` `Real-time Data` `Analytics`
-
-</td>
-<td width="50%">
-
-### 🏥 [Insurely](https://github.com/Infernos444/Insurely)
-
-Predicts insurance claim denials, compares hospital costs & reveals billing trends for patient transparency.
-
-`Python` `ML` `Healthcare Analytics`
-
-</td>
-</tr>
-</table>
-
-<br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- GITHUB STATS -->
