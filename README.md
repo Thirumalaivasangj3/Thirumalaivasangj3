@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:4F46E5&height=220&section=header&text=Thirumalaivasan%20GJ&fontSize=42&fontColor=E6EDF3&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Engineer&descSize=16&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%F0%9F%9A%80+Building+scalable+systems+that+matter;%E2%98%81%EF%B8%8F+Orchestrating+cloud-native+solutions;%F0%9F%94%A7+Automating+everything+in+between" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=818CF8&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=600&amp;height=70&amp;lines=%F0%9F%9A%80+Building+scalable+systems+that+matter;%E2%98%81%EF%B8%8F+Orchestrating+cloud-native+solutions;%F0%9F%94%A7+Automating+everything+in+between" />
 
 <br>
 
