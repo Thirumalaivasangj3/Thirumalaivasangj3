@@ -1,17 +1,11 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HERO SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:4F46E5&height=220&section=header&text=Thirumalaivasan%20GJ&fontSize=42&fontColor=E6EDF3&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Engineer&descSize=16&descAlignY=55&descAlign=50" width="100%" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=818CF8&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=600&amp;height=70&amp;lines=%F0%9F%9A%80+Building+scalable+systems+that+matter;%E2%98%81%EF%B8%8F+Orchestrating+cloud-native+solutions;%F0%9F%94%A7+Automating+everything+in+between" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%F0%9F%9A%80+Building+scalable+systems+that+matter;%E2%98%81%EF%B8%8F+Orchestrating+cloud-native+solutions;%F0%9F%94%A7+Automating+everything+in+between" />
 
 <br>
 
-<!-- Quick Links -->
 <a href="https://www.linkedin.com/in/thirumalaivasangj3/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -25,11 +19,7 @@
 
 </div>
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ABOUT SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 ## `> whoami`
 
@@ -49,113 +39,42 @@ interests:
 motto: "Ship fast. Ship reliably. Ship often."
 ```
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK - CATEGORIZED -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 ## ⚙️ Tech Arsenal
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css&perline=2" />
-
-</td>
-<td align="center" width="25%">
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,cpp,firebase&perline=2" />
-
-</td>
-<td align="center" width="25%">
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" />
-
-</td>
-<td align="center" width="25%">
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git&perline=2" />
-
-</td>
-</tr>
-<tr>
-<td colspan="4" align="center">
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=github,figma,postman,linux&perline=4" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏗️ Featured Projects
-
+<div align="center">
 <table>
 <tr>
-<td width="50%">
-
-### 🚇 [Chennai Metro Travel Planner](https://github.com/Thirumalaivasangj3/Chennai-Metro-Rail-Travel-Planner)
-> **Live:** [travelplanner.chennaimetrorail.org](https://travelplanner.chennaimetrorail.org/)
-
-Plan journeys on the Chennai Metro — fare calculation, stops, duration, distance & real-time train details.
-
-`JavaScript` `HTML` `CSS` `Maps API`
-
+<td align="center" width="25%">
+<strong>Frontend</strong>
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,js,html,css&perline=2" />
 </td>
-<td width="50%">
-
-### 🔄 [CI/CD Kubernetes Pipeline](https://github.com/Thirumalaivasangj3/cicd-kubernetes-pipeline)
-
-End-to-end CI/CD pipeline deploying containerized applications to Kubernetes clusters with automated testing.
-
-`Python` `Docker` `Kubernetes` `GitHub Actions`
-
+<td align="center" width="25%">
+<strong>Backend</strong>
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,python,cpp,firebase&perline=2" />
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔍 [Crisis-Scope](https://github.com/Infernos444/Crisis-Scope)
-
-Real-time crisis monitoring and disaster management system for rapid response and situational awareness.
-
-`JavaScript` `Real-time Data` `Analytics`
-
+<td align="center" width="25%">
+<strong>Database</strong>
+<br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" />
 </td>
-<td width="50%">
-
-### 🏥 [Insurely](https://github.com/Infernos444/Insurely)
-
-Predicts insurance claim denials, compares hospital costs & reveals billing trends for patient transparency.
-
-`Python` `ML` `Healthcare Analytics`
-
+<td align="center" width="25%">
+<strong>DevOps & Cloud</strong>
+<br><br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git&perline=2" />
 </td>
 </tr>
 </table>
 
-<br>
+<strong>Tools & Platforms</strong>
+<br><br>
+<img src="https://skillicons.dev/icons?i=github,figma,postman,linux&perline=4" />
+</div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 ## 📈 GitHub Analytics
 
@@ -171,31 +90,19 @@ Predicts insurance claim denials, compares hospital costs & reveals billing tren
 
 </div>
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ACTIVITY GRAPH -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thirumalaivasangj3&theme=react-dark&hide_border=true&bg_color=0D1117&color=818CF8&line=818CF8&point=E6EDF3&area=true&area_color=4F46E5" width="95%" />
 </div>
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TROPHIES -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" />
 </div>
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION SNAKE -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 <picture>
@@ -205,11 +112,7 @@ Predicts insurance claim denials, compares hospital costs & reveals billing tren
 </picture>
 </div>
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:4F46E5&height=120&section=footer" width="100%" />
 
