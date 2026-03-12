@@ -43,28 +43,14 @@ motto: "Ship fast. Ship reliably. Ship often."
 
 ## ⚙️ Tech Arsenal
 
-<div align="center">
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,js,html,css&amp;perline=4" alt="Frontend" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,python,cpp,firebase&amp;perline=4" alt="Backend" />
-
-### Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&amp;perline=4" alt="Database" />
-
-### DevOps &amp; Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git&amp;perline=4" alt="DevOps" />
-
-### AI &amp; Automation
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" alt="n8n" />
-
-### Tools &amp; Platforms
-<img src="https://skillicons.dev/icons?i=github,figma,postman,linux&amp;perline=4" alt="Tools" />
-
-</div>
+| Category | Technologies |
+|:--------:|:------------|
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white) |
+| **DevOps &amp; Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white) |
+| **AI &amp; Automation** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&amp;logo=n8n&amp;logoColor=white) |
+| **Tools** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black) |
 
 ---
 
