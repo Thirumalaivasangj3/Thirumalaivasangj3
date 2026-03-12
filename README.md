@@ -1,90 +1,224 @@
+<div align="center">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- HERO SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:4F46E5&height=220&section=header&text=Thirumalaivasan%20GJ&fontSize=42&fontColor=E6EDF3&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Engineer&descSize=16&descAlignY=55&descAlign=50" width="100%" />
+
 <!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Thirumalaivasan+GJ;Full-Stack+Developer;Cloud+%7C+DevOps+Enthusiast;Building+Scalable+Systems" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%F0%9F%9A%80+Building+scalable+systems+that+matter;%E2%98%81%EF%B8%8F+Orchestrating+cloud-native+solutions;%F0%9F%94%A7+Automating+everything+in+between" />
 
----
+<br>
 
-## 🚀 About Me  
+<!-- Quick Links -->
+<a href="https://www.linkedin.com/in/thirumalaivasangj3/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/thirumalaivasangj3">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://travelplanner.chennaimetrorail.org/">
+  <img src="https://img.shields.io/badge/Portfolio_Project-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&label=Profile+Views&color=818CF8&style=for-the-badge" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-4F46E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mindset-Problem%20Solver-blue?style=for-the-badge"/>
-</p>
+</div>
 
-<p align="center">
-  Passionate Full-Stack Developer building real-world, scalable systems.  
-  Strong interest in Cloud Architecture, DevOps, and clean engineering.
-</p>
+<br>
 
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🌐 Connect With Me  
+## `> whoami`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/thirumalaivasangj3/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/thirumalaivasangj3">
-    <img src="https://skillicons.dev/icons?i=github" width="45"/>
-  </a>
-</p>
+```yaml
+name: Thirumalaivasan GJ
+role: Full-Stack Developer | Cloud & DevOps Enthusiast
+education: 4th Year CSE @ SRM Institute of Science and Technology
+location: Chennai, India
+currently_building:
+  - Cloud-native web applications
+  - CI/CD pipelines with Kubernetes
+  - Real-time disaster management systems
+interests:
+  - Distributed Systems
+  - Container Orchestration
+  - Scalable Architecture Design
+motto: "Ship fast. Ship reliably. Ship often."
+```
 
----
+<br>
 
-## 🛠️ Tech Stack  
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK - CATEGORIZED -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,cpp,python" /><br><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" /><br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws" /><br><br>
-  <img src="https://skillicons.dev/icons?i=figma,postman" />
-</p>
+## ⚙️ Tech Arsenal
 
----
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-## 📊 GitHub Insights  
+**Frontend**
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thirumalaivasangj3&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" />
-  &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalaivasangj3&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css&perline=2" />
 
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com/?user=thirumalaivasangj3&theme=tokyonight&hide_border=true" />
-</p>
+</td>
+<td align="center" width="25%">
 
----
+**Backend**
 
-## 🏆 GitHub Achievements  
+<img src="https://skillicons.dev/icons?i=nodejs,python,cpp,firebase&perline=2" />
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3&theme=flat&no-frame=true&row=1&column=4"
-  />
-</p>
+</td>
+<td align="center" width="25%">
 
----
+**Database**
 
-## 🐍 Contribution Activity  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+</td>
+<td align="center" width="25%">
 
----
+**DevOps & Cloud**
 
-## 👀 Profile Views  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git&perline=2" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&label=Profile%20Views&color=4F46E5&style=for-the-badge" />
-</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" align="center">
 
----
+**Tools & Platforms**
 
-<p align="center">
-  <strong>✨ Always building. Always learning. ✨</strong>
-</p>
+<img src="https://skillicons.dev/icons?i=github,figma,postman,linux&perline=4" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏗️ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚇 [Chennai Metro Travel Planner](https://github.com/Thirumalaivasangj3/Chennai-Metro-Rail-Travel-Planner)
+> **Live:** [travelplanner.chennaimetrorail.org](https://travelplanner.chennaimetrorail.org/)
+
+Plan journeys on the Chennai Metro — fare calculation, stops, duration, distance & real-time train details.
+
+`JavaScript` `HTML` `CSS` `Maps API`
+
+</td>
+<td width="50%">
+
+### 🔄 [CI/CD Kubernetes Pipeline](https://github.com/Thirumalaivasangj3/cicd-kubernetes-pipeline)
+
+End-to-end CI/CD pipeline deploying containerized applications to Kubernetes clusters with automated testing.
+
+`Python` `Docker` `Kubernetes` `GitHub Actions`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔍 [Crisis-Scope](https://github.com/Infernos444/Crisis-Scope)
+
+Real-time crisis monitoring and disaster management system for rapid response and situational awareness.
+
+`JavaScript` `Real-time Data` `Analytics`
+
+</td>
+<td width="50%">
+
+### 🏥 [Insurely](https://github.com/Infernos444/Insurely)
+
+Predicts insurance claim denials, compares hospital costs & reveals billing trends for patient transparency.
+
+`Python` `ML` `Healthcare Analytics`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=thirumalaivasangj3&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=E6EDF3&ring_color=818CF8" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalaivasangj3&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=E6EDF3" />
+
+<br><br>
+
+<img height="180" src="https://streak-stats.demolab.com/?user=thirumalaivasangj3&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=818CF8&ring=818CF8&fire=FF6B6B&currStreakLabel=818CF8&sideLabels=818CF8" />
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ACTIVITY GRAPH -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thirumalaivasangj3&theme=react-dark&hide_border=true&bg_color=0D1117&color=818CF8&line=818CF8&point=E6EDF3&area=true&area_color=4F46E5" width="95%" />
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TROPHIES -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" />
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONTRIBUTION SNAKE -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:4F46E5&height=120&section=footer" width="100%" />
+
+<div align="center">
+
+**⚡ Turning caffeine into deployable code since 2021**
+
+<img src="https://img.shields.io/badge/Open_to-Collaborations-818CF8?style=flat-square" />
+<img src="https://img.shields.io/badge/Open_to-Internships-818CF8?style=flat-square" />
+<img src="https://img.shields.io/badge/Open_to-Open_Source-818CF8?style=flat-square" />
+
+</div>
