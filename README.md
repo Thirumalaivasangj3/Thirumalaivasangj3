@@ -116,11 +116,6 @@ motto: "Ship fast. Ship reliably. Ship often."
 &nbsp;&nbsp;
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalaivasangj3&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=E6EDF3" />
 
-<br><br>
-
-<img height="180" src="https://streak-stats.demolab.com/?user=thirumalaivasangj3&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=818CF8&ring=818CF8&fire=FF6B6B&currStreakLabel=818CF8&sideLabels=818CF8" />
-
-</div>
 
 <br>
 
