@@ -1,137 +1,133 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HERO SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:1a1a2e&height=200&section=header&text=Thirumalaivasan%20GJ&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Cloud%20%26%20DevOps%20Engineer&descSize=15&descAlignY=56&descAlign=50" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:4F46E5&height=220&section=header&text=Thirumalaivasan%20GJ&fontSize=42&fontColor=E6EDF3&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Engineer&descSize=16&descAlignY=55&descAlign=50" width="100%" />
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%F0%9F%9A%80+Building+scalable+systems+that+matter;%E2%98%81%EF%B8%8F+Orchestrating+cloud-native+solutions;%F0%9F%94%A7+Automating+everything+in+between" />
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=20&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&repeat=true&width=550&height=50&lines=%E2%9C%A6+Building+systems+that+scale;%E2%9C%A6+Orchestrating+cloud-native+solutions;%E2%9C%A6+Automating+the+impossible" />
 
 <br>
 
-<!-- Quick Links -->
+<!-- SOCIAL LINKS -->
 <a href="https://www.linkedin.com/in/thirumalaivasangj3/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://github.com/thirumalaivasangj3">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://travelplanner.chennaimetrorail.org/">
-  <img src="https://img.shields.io/badge/Portfolio_Project-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&label=Profile+Views&color=818CF8&style=for-the-badge" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&label=Visitors&color=000000&style=for-the-badge&labelColor=000000" />
 
 </div>
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ABOUT SECTION -->
+<!-- ABOUT -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `> whoami`
+<div align="center">
 
-```yaml
-name: Thirumalaivasan GJ
-role: Full-Stack Developer | Cloud & DevOps Enthusiast
-education: 4th Year CSE @ SRM Institute of Science and Technology
-location: Chennai, India
-currently_building:
-  - Cloud-native web applications
-  - CI/CD pipelines with Kubernetes
-  - Real-time disaster management systems
-interests:
-  - Distributed Systems
-  - Container Orchestration
-  - Scalable Architecture Design
-motto: "Ship fast. Ship reliably. Ship often."
-```
+## About
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+🎓 &nbsp; **4th Year CSE** — SRM Institute of Science and Technology, Chennai
+
+🚀 &nbsp; Currently building **cloud-native apps** & **CI/CD pipelines with Kubernetes**
+
+🛰️ &nbsp; Working on **real-time disaster management systems**
+
+🧠 &nbsp; Passionate about **distributed systems** & **scalable architecture**
+
+💬 &nbsp; *"Ship fast. Ship reliably. Ship often."*
+
+</td>
+</tr>
+</table>
+</div>
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK - CATEGORIZED -->
+<!-- TECH STACK -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## ⚙️ Tech Arsenal
+<div align="center">
 
-<table align="center">
+## Tech Stack
+
+<br>
+
+<table>
 <tr>
 <td align="center" width="25%">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css&perline=2" />
-
-</td>
-<td align="center" width="25%">
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,cpp,firebase&perline=2" />
-
-</td>
-<td align="center" width="25%">
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" />
-
-</td>
-<td align="center" width="25%">
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git&perline=2" />
-
-</td>
-</tr>
-<tr>
-<td colspan="4" align="center">
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=github,linux&perline=2" />
+<br>
+<strong>Frontend</strong>
 <br><br>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-
+<img src="https://skillicons.dev/icons?i=react,js,html,css&perline=2&theme=dark" />
+<br><br>
+</td>
+<td align="center" width="25%">
+<br>
+<strong>Backend</strong>
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,python,cpp,firebase&perline=2&theme=dark" />
+<br><br>
+</td>
+<td align="center" width="25%">
+<br>
+<strong>Database</strong>
+<br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2&theme=dark" />
+<br><br>
+</td>
+<td align="center" width="25%">
+<br>
+<strong>DevOps & Cloud</strong>
+<br><br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git&perline=2&theme=dark" />
+<br><br>
 </td>
 </tr>
 </table>
 
 <br>
 
-
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=thirumalaivasangj3&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=E6EDF3&ring_color=818CF8" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalaivasangj3&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=E6EDF3" />
-
-<br><br>
-
-<img height="180" src="https://streak-stats.demolab.com/?user=thirumalaivasangj3&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=818CF8&ring=818CF8&fire=FF6B6B&currStreakLabel=818CF8&sideLabels=818CF8" />
+<img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ACTIVITY GRAPH -->
+<!-- GITHUB STATS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thirumalaivasangj3&theme=react-dark&hide_border=true&bg_color=0D1117&color=818CF8&line=818CF8&point=E6EDF3&area=true&area_color=4F46E5" width="95%" />
+
+## GitHub Stats
+
+<br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thirumalaivasangj3&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&ring_color=ffffff" />
+&nbsp;&nbsp;&nbsp;
+<img height="170" src="https://streak-stats.demolab.com/?user=thirumalaivasangj3&hide_border=true&background=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=555555" />
+
 </div>
 
 <br>
@@ -141,21 +137,25 @@ motto: "Ship fast. Ship reliably. Ship often."
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3&theme=onestar&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" />
+
 </div>
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION SNAKE -->
+<!-- SNAKE -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </picture>
+
 </div>
 
 <br>
@@ -164,14 +164,14 @@ motto: "Ship fast. Ship reliably. Ship often."
 <!-- FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:4F46E5&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:1a1a2e&height=100&section=footer" width="100%" />
 
 <div align="center">
 
-**⚡ Turning caffeine into deployable code since 2021**
-
-<img src="https://img.shields.io/badge/Open_to-Collaborations-818CF8?style=flat-square" />
-<img src="https://img.shields.io/badge/Open_to-Internships-818CF8?style=flat-square" />
-<img src="https://img.shields.io/badge/Open_to-Open_Source-818CF8?style=flat-square" />
+<img src="https://img.shields.io/badge/Open_to-Collaborations-000?style=for-the-badge&labelColor=000" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open_to-Internships-000?style=for-the-badge&labelColor=000" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open_to-Open_Source-000?style=for-the-badge&labelColor=000" />
 
 </div>
