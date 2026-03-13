@@ -93,7 +93,6 @@ motto: "Ship fast. Ship reliably. Ship often."
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=github,linux&perline=2" />
 <br><br>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -134,17 +133,6 @@ motto: "Ship fast. Ship reliably. Ship often."
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thirumalaivasangj3&theme=react-dark&hide_border=true&bg_color=0D1117&color=818CF8&line=818CF8&point=E6EDF3&area=true&area_color=4F46E5" width="95%" />
 </div>
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TROPHIES -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasangj3&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" />
-</div>
-
-<br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- CONTRIBUTION SNAKE -->
