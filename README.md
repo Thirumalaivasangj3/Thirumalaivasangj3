@@ -125,14 +125,6 @@ motto: "Ship fast. Ship reliably. Ship often."
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ACTIVITY GRAPH -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thirumalaivasangj3&theme=react-dark&hide_border=true&bg_color=0D1117&color=818CF8&line=818CF8&point=E6EDF3&area=true&area_color=4F46E5" width="95%" />
-</div>
-
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- CONTRIBUTION SNAKE -->
