@@ -15,15 +15,12 @@
 <a href="https://www.linkedin.com/in/thirumalaivasangj3/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://github.com/thirumalaivasangj3">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://travelplanner.chennaimetrorail.org/">
   <img src="https://img.shields.io/badge/Portfolio_Project-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
 <img src="https://komarev.com/ghpvc/?username=thirumalaivasangj3&label=Profile+Views&color=818CF8&style=for-the-badge" />
 
 </div>
@@ -55,50 +52,57 @@ motto: "Ship fast. Ship reliably. Ship often."
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK -->
+<!-- TECH STACK - CATEGORIZED -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## ⚙️ Tech Arsenal
 
 <table align="center">
-  <tr>
-    <td align="center" width="25%">
+<tr>
+<td align="center" width="25%">
 
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,js,html,css&perline=2" />
-    </td>
-    <td align="center" width="25%">
+
+</td>
+<td align="center" width="25%">
 
 **Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,python,cpp,firebase&perline=2" />
-    </td>
-    <td align="center" width="25%">
+
+</td>
+<td align="center" width="25%">
 
 **Database**
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" />
-    </td>
-    <td align="center" width="25%">
+
+</td>
+<td align="center" width="25%">
 
 **DevOps & Cloud**
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git&perline=2" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4" align="center">
+
+</td>
+</tr>
+<tr>
+<td colspan="4" align="center">
 
 **Tools & Platforms**
 
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-    </td>
-  </tr>
+
+</td>
+</tr>
 </table>
 
 <br>
+
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- GITHUB STATS -->
@@ -112,24 +116,20 @@ motto: "Ship fast. Ship reliably. Ship often."
 &nbsp;&nbsp;
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalaivasangj3&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=E6EDF3" />
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thirumalaivasangj3&theme=github-dark&hide_border=true&background=0D1117&ring=818CF8&fire=818CF8&currStreakLabel=818CF8" />
-
-</div>
 
 <br>
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- CONTRIBUTION SNAKE -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 <br>
@@ -142,9 +142,7 @@ motto: "Ship fast. Ship reliably. Ship often."
 
 <div align="center">
 
-⚡ Turning caffeine into deployable code since 2021
-
-<br><br>
+**⚡ Turning caffeine into deployable code since 2021**
 
 <img src="https://img.shields.io/badge/Open_to-Collaborations-818CF8?style=flat-square" />
 <img src="https://img.shields.io/badge/Open_to-Internships-818CF8?style=flat-square" />
