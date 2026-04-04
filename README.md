@@ -43,68 +43,25 @@ motto       : "Ship fast. Ship reliably. Ship often."
 
 ## Tech Stack
 
-<table align="center">
-<tr>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=react" width="48"/><br/><sub>React</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=js" width="48"/><br/><sub>JavaScript</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=python" width="48"/><br/><sub>Python</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br/><sub>FastAPI</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><sub>Node.js</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=docker" width="48"/><br/><sub>Docker</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br/><sub>Kubernetes</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=aws" width="48"/><br/><sub>AWS</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/><sub>MySQL</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=firebase" width="48"/><br/><sub>Firebase</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br/><sub>Git</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=figma" width="48"/><br/><sub>Figma</sub>
-</td>
-<td align="center" width="20%">
+<div align="center">
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,js,python,fastapi,nodejs,docker,kubernetes,aws,mysql,firebase,git,figma&perline=6" />
 
-<sub>LangChain</sub>
-</td>
-<td align="center" width="20%">
+<br/>
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LLM-F55036?style=for-the-badge&logoColor=white)
 
-<sub>n8n</sub>
-</td>
-<td align="center" width="20%">
+</div>
 
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+<br/>
 
-<sub>Groq LLM</sub>
-</td>
-</tr>
-</table>
+<div align="center">
+
+![marquee](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=200&color=27AE60&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=30&lines=React+%7C+JavaScript+%7C+Python+%7C+FastAPI+%7C+Node.js;Docker+%7C+Kubernetes+%7C+AWS+%7C+MySQL+%7C+Firebase;LangChain+%7C+n8n+%7C+Groq+LLM+%7C+Git+%7C+Figma)
+
+</div>
 
 <br/>
 
