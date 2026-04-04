@@ -24,11 +24,6 @@ role        : Full-Stack Developer | AI Systems | Cloud + DevOps Engineer
 education   : B.Tech CSE @ SRM Institute of Science and Technology (2022-2026)
 location    : Chennai, India
 
-currently_building:
-  - AI-powered full-stack applications (RAG, LangChain, FAISS)
-  - Autonomous DevOps agents with MCP + n8n
-  - Cloud-native CI/CD pipelines with Kubernetes
-
 interests:
   - Distributed Systems + Container Orchestration
   - Agentic AI + LLM Tooling
@@ -51,7 +46,7 @@ motto       : "Ship fast. Ship reliably. Ship often."
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_LLM-F55036?style=for-the-badge&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-6A0DAD?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -59,7 +54,7 @@ motto       : "Ship fast. Ship reliably. Ship often."
 
 <div align="center">
 
-![marquee](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=200&color=27AE60&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=30&lines=React+%7C+JavaScript+%7C+Python+%7C+FastAPI+%7C+Node.js;Docker+%7C+Kubernetes+%7C+AWS+%7C+MySQL+%7C+Firebase;LangChain+%7C+n8n+%7C+Groq+LLM+%7C+Git+%7C+Figma)
+![marquee](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=200&color=27AE60&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=30&lines=React+%7C+JavaScript+%7C+Python+%7C+FastAPI+%7C+Node.js;Docker+%7C+Kubernetes+%7C+AWS+%7C+MySQL+%7C+Firebase;LangChain+%7C+n8n+%7C+LLM+%7C+Git+%7C+Figma)
 
 </div>
 
