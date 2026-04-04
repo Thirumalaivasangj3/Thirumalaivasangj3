@@ -1,17 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0d,50:0d2b22,100:0f4c35&height=200&section=header&text=Thirumalaivasan%20GJ&fontSize=46&fontColor=d4f0e4&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20AI%20Systems%20%7C%20Cloud%20%26%20DevOps&descSize=15&descAlignY=62&descAlign=50&descColor=6fcf97" width="100%" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=27AE60&height=220&section=header&text=Thirumalaivasan%20GJ&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20AI%20Systems%20%7C%20Cloud%20%2B%20DevOps%20Engineer&descSize=16&descAlignY=65&descColor=d4f0e4)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=27AE60&center=true&vCenter=true&width=600&height=40&lines=Building+scalable+systems+that+matter;Crafting+AI-powered+solutions+with+LangChain;Orchestrating+cloud-native+pipelines" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a6640?style=for-the-badge&logo=linkedin&logoColor=d4f0e4)](https://linkedin.com/in/thirumalaivasangj3)
-[![GitHub](https://img.shields.io/badge/GitHub-0d2b22?style=for-the-badge&logo=github&logoColor=6fcf97)](https://github.com/Thirumalaivasangj3)
-[![Live Project](https://img.shields.io/badge/Live_Project-0f4c35?style=for-the-badge&logo=googlechrome&logoColor=d4f0e4)](https://travelplanner.chennaimetrorail.org/)
-[![Email](https://img.shields.io/badge/Email-1a5c3a?style=for-the-badge&logo=gmail&logoColor=d4f0e4)](mailto:thirumalaivasangj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thirumalaivasangj3)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thirumalaivasangj3)
+[![Live Project](https://img.shields.io/badge/Live_Project-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://travelplanner.chennaimetrorail.org/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thirumalaivasangj@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=thirumalaivasangj3&label=Profile+Views&color=27AE60&style=for-the-badge)
 
 </div>
@@ -90,13 +86,22 @@ motto       : "Ship fast. Ship reliably. Ship often."
 <img src="https://skillicons.dev/icons?i=figma" width="48"/><br/><sub>Figma</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/LangChain-0f4c35?style=flat-square&logo=langchain&logoColor=6fcf97" /><br/><sub>LangChain</sub>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+<sub>LangChain</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/n8n-0d2b22?style=flat-square&logo=n8n&logoColor=6fcf97" /><br/><sub>n8n</sub>
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+<sub>n8n</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/Groq-0a1f16?style=flat-square&logoColor=6fcf97" /><br/><sub>Groq LLM</sub>
+
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+
+<sub>Groq LLM</sub>
 </td>
 </tr>
 </table>
@@ -109,13 +114,13 @@ motto       : "Ship fast. Ship reliably. Ship often."
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=thirumalaivasangj3&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&bg_color=0a0f0d&title_color=27AE60&icon_color=6fcf97&text_color=d4f0e4&ring_color=27AE60" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalaivasangj3&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0f0d&title_color=27AE60&text_color=d4f0e4" />
+![stats](https://github-readme-stats.vercel.app/api?username=thirumalaivasangj3&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=27AE60&icon_color=6fcf97&text_color=c9d1d9&ring_color=27AE60)
+&nbsp;
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalaivasangj3&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=27AE60&text_color=c9d1d9)
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=thirumalaivasangj3&theme=github-dark-blue&hide_border=true&background=0a0f0d&ring=27AE60&fire=6fcf97&currStreakLabel=27AE60" />
+![streak](https://github-readme-streak-stats.herokuapp.com?user=thirumalaivasangj3&theme=github-dark-blue&hide_border=true&background=0d1117&ring=27AE60&fire=6fcf97&currStreakLabel=27AE60)
 
 </div>
 
@@ -151,19 +156,21 @@ After running the GitHub Action workflow, replace the above line with:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a6640?style=for-the-badge&logo=linkedin&logoColor=d4f0e4)](https://www.linkedin.com/in/thirumalaivasangj3/)
-[![Gmail](https://img.shields.io/badge/thirumalaivasangj%40gmail.com-1a5c3a?style=for-the-badge&logo=gmail&logoColor=d4f0e4)](mailto:thirumalaivasangj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thirumalaivasangj3/)
+[![Gmail](https://img.shields.io/badge/thirumalaivasangj%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thirumalaivasangj@gmail.com)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c35,50:0d2b22,100:0a0f0d&height=120&section=footer&text=Turning%20caffeine%20into%20deployable%20code%20since%202021&fontSize=14&fontColor=6fcf97&fontAlignY=65" width="100%" />
-
 <div align="center">
+
+*Turning caffeine into deployable code since 2021*
 
 ![Collaborations](https://img.shields.io/badge/Open_to-Collaborations-27AE60?style=flat-square)
 ![Internships](https://img.shields.io/badge/Open_to-Internships-27AE60?style=flat-square)
 ![Open Source](https://img.shields.io/badge/Open_to-Open_Source-27AE60?style=flat-square)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=27AE60&height=140&section=footer)
