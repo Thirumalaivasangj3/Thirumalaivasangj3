@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=27AE60&height=220&section=header&text=Thirumalaivasan%20GJ&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20AI%20Systems%20%7C%20Cloud%20%2B%20DevOps%20Engineer&descSize=16&descAlignY=65&descColor=d4f0e4)
+![header](https://capsule-render.vercel.app/api?type=waving&color=27AE60&height=220&section=header&text=Thirumalaivasan%20GJ&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=Generative%20AI%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20%2B%20DevOps%20Engineer&descSize=16&descAlignY=65&descColor=d4f0e4)
 
 <br/>
 
@@ -20,14 +20,14 @@
 
 ```yaml
 name        : Thirumalaivasan GJ
-role        : Full-Stack Developer | AI Systems | Cloud + DevOps Engineer
+role        : Generative AI & Full-Stack Developer | Cloud + DevOps Engineer
 education   : B.Tech CSE @ SRM Institute of Science and Technology (2022-2026)
 location    : Chennai, India
 
 interests:
-  - Distributed Systems + Container Orchestration
-  - Agentic AI + LLM Tooling
-  - Scalable Architecture Design
+  - Generative AI + LLM Applications
+  - RAG Pipelines + AI Systems
+  - Cloud Infrastructure + DevOps
 
 motto       : "Ship fast. Ship reliably. Ship often."
 ```
