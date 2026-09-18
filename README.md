@@ -20,7 +20,7 @@
 
 ```yaml
 name        : Thirumalaivasan GJ
-role        : Generative AI & Full-Stack Developer | Cloud + DevOps Engineer
+role        : Generative AI & Full-Stack Developer | Cloud & DevOps
 education   : B.Tech CSE @ SRM Institute of Science and Technology (2022-2026)
 location    : Chennai, India
 
